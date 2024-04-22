@@ -1,0 +1,113 @@
+########################## hero area ##########################
+hero:
+  title: "Cornell Taiwanese Student Association"
+
+  # animated text loop
+  occupations:
+    - '康乃爾大學臺灣同學會'
+    - 'CTSA'
+    - '康乃爾大學台灣同學會'
+    - 'Cornell TSA'
+
+  # hero background image
+  bg_image: 'images/icons/background.jpeg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/icons/gus_small.jpeg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/photo.jpg'
+  title: 'About Us'
+  content: Cornell Taiwanese Student Association (CTSA) is a non-profit, not-religious and non-political group. Our major mission is to help Taiwanese Student adapt to life and academic studies in Cornell Community. Our group also works as a platform for Taiwanese student to build up connections among students and communities. We also welcome anyone who is interested in Taiwanese culture to join our activities and to learn more about this beautiful island. Join us [by Facebook Group or email](#contact)!
+  button:
+    enable: true
+    label: 'Studnet Q & A'
+    link: 'https://drive.google.com/file/d/1LMlAYBDAfd06Id9WL7_Vw_q35iHgSnix/view?usp=drive_link'
+    icon: 'fa-download'
+  button:
+    enable: true
+    label: 'Studnet Handbook'
+    link: 'https://drive.google.com/file/d/1qzJzdugc4_fR_21fgfF5o41xJ9CxLwvi/view?usp=drive_link'
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'Events'
+  experience_list:
+    - name: Orientation for New Students
+      company: Online
+      duration: '2024 End of April'
+      content: We're thrilled to gather and introduce our new students to the vibrant community and rich cultural experiences that await you here at Cornell.
+
+    - name: Final ALL-PASS snack
+      company: Biotech Atrium
+      duration: 'Mid May, 2024'
+      content: Fuel up for your finals with a taste of home! Join us for a comforting snack of traditional rice dumplings, a delicious way to boost your energy and spirits before tackling your exams.
+
+    - name: Striking Celebration!
+      company: Helen Newman Hall
+      duration: 'May 31 | 6:30pm - 8:30pm'
+      content: Come ready to showcase your bowling skills and connect with friends. Don't miss out on this fantastic opportunity to unwind and make lasting memories as we bid farewell to the semester.
+
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'Who Are We?'
+  showpercent: false
+  skill_list:
+    - name: '90 + People'
+      percentage: '85%'
+
+    - name: '10 + of Activities'
+      percentage: '93%'
+
+    - name: 'Group Tier'
+      percentage: '25%'
+
+    - name: 'Fund'
+      percentage: '80%'
+
+    - name: 'Friendly'
+      percentage: '100%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'Zong-Yan Liu'
+      image: 'images/icons/zongyan.jpg'
+      count: 'President'
+
+    - name: 'Yi-Tser Tsai'
+      image: 'images/icons/tsai.jpeg'
+      count: 'Vice-President'
+
+    - name: 'Chi-Jung Lee'
+      image: 'images/icons/lee.jpeg'
+      count: 'Treasurer'
+
+    - name: 'Yen-Yu Lai'
+      image: 'images/icons/happy.png'
+      count: 'Webmaster'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'Previous Events'
+  portfolio_list:
+    - name: Join Us for a Moon Festival Celebration!
+      image: 'images/portfolio/bbqmeeteatingdiner1105325.jpeg'
+      # url: https://gohugo.io
+      description: Get ready to indulge in the rich traditions and flavors of the Moon Festival with the Cornell Taiwanese Student Association! We're thrilled to invite you to our Taiwanese Snacks for Mid-Autumn Festival and BBQ event, where we'll be celebrating under the shimmering moonlight. Join us for a delightful evening filled with delectable mooncakes, mouthwatering BBQ, and the warm company of friends and fellow students. It's a perfect opportunity to savor the taste of tradition while creating unforgettable memories. Don't miss out on this chance to experience the magic of the Moon Festival right here on campus.
+
+    - name: Rolling Out the Red Carpet
+      image: 'images/portfolio/IMG_7245.jpeg'
+      # url: https://gohugo.io
+      description: We're thrilled to kick off an exciting new academic year with a bang! Join us as we roll out the red carpet to welcome our bright and enthusiastic first-year students. It's time to celebrate new beginnings and create lasting memories together. Our grand welcoming party promises an unforgettable evening filled with laughter, delicious food, and the opportunity to forge connections that will last a lifetime. Let's come together as a community to embrace the fresh faces who are about to embark on an incredible journey with us. Get ready for a night of fun, friendship, and fantastic surprises.
+
+    - name: Welcome to Cornell University!
+      image: 'images/portfolio/campus.jpeg'
+      description: As the Cornell Taiwanese Student Association, we are thrilled to have you join our vibrant community. Get ready to embark on an unforgettable journey filled with academic excellence, cultural enrichment, and lifelong friendships. We are here to support and guide you every step of the way, ensuring a smooth transition into your new home away from home. Join us in celebrating Taiwanese culture, traditions, and values, and let's create lasting memories together at Cornell. Welcome aboard, and let's make your Cornell experience truly extraordinary!
