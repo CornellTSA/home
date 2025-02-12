@@ -19,7 +19,7 @@ about:
   enable: true
   image: 'images/photo.jpg'
   title: 'About Us'
-  content: Cornell Taiwanese Student Association (CTSA) is a non-profit, not-religious and non-political group. Our major mission is to help Taiwanese Student adapt to life and academic studies in Cornell Community. Our group also works as a platform for Taiwanese student to build up connections among students and communities. We also welcome anyone who is interested in Taiwanese culture to join our activities and to learn more about this beautiful island. Join us [by Facebook Group or email](#contact)!
+  content: Cornell Taiwanese Student Association (CTSA) is a non-profit, not-religious and non-political group. Our major mission is to help Taiwanese Student adapt to life and academic studies in Cornell Community. Our group also works as a platform for Taiwanese student to build up connections among students and communities. We also welcome anyone who is interested in Taiwanese culture to join our activities and to learn more about this beautiful island. Join us [by Facebook Group or email](#contact)! *This organization is a registered student organization of Cornell University.
   button:
     enable: true
     label: 'Studnet Q & A'
